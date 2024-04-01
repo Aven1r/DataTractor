@@ -1,0 +1,3 @@
+CREATE DATABASE cpa;
+
+GRANT ALL PRIVILEGES ON DATABASE cpa to "postgres";
